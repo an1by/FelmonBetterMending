@@ -1,0 +1,8 @@
+name: FelmonBetterMending
+version: '${project.version}'
+main: ru.aniby.felmonbettermending.FelmonBetterMending
+api-version: '1.18'
+load: STARTUP
+authors: [An1by]
+description: Better Than Mending, but it's a plugin
+website: https://aniby.net/
